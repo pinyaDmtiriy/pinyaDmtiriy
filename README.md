@@ -15,6 +15,3 @@
 [Email](PinyaDmitry@yandex.ru)
 
 ---
-
-
-](https://github-readme-stats.vercel.app/api/top-langs/?username=pinyaDmitry&layout=compact&theme=dark))
