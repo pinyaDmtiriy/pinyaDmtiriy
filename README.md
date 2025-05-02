@@ -12,6 +12,4 @@
 
 ## 📫 Как связаться:
 [Telegram](https://t.me/pinyaDmitry?start)  
-[Email](PinyaDmitry@yandex.ru)
-
 ---
